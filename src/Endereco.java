@@ -4,6 +4,7 @@ public class Endereco {
     short numero;
     String complemento;
     String cep;
+    String cidade;
 
 
     String retornarEndereco() {
